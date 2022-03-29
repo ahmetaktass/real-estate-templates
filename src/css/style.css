@@ -1047,7 +1047,7 @@ section.contact {
 
 /* line 959, src/sass/style.scss */
 .modal {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   bottom: 0;
