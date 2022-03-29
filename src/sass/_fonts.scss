@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@font-face {
+  font-family: "Proxima Nova Bold";
+  src: url("../fonts/Proxima-Nova-Bold.eot");
+  src: url("../fonts/Proxima-Nova-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Proxima-Nova-Bold.woff") format("woff"),
+    url("../fonts/Proxima-Nova-Bold.ttf") format("truetype"),
+    url("../fonts/Proxima-Nova-Bold.svg#webfont") format("svg");
+}
+
+@font-face {
+  font-family: "Proxima Nova Semibold";
+  src: url("../fonts/Proxima-Nova-Semibold.eot");
+  src: url("../fonts/Proxima-Nova-Semibold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Proxima-Nova-Semibold.woff") format("woff"),
+    url("../fonts/Proxima-Nova-Semibold.ttf") format("truetype"),
+    url("../fonts/Proxima-Nova-Semibold.svg#webfont") format("svg");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("../fonts/Proxima-Nova-Regular.eot");
+  src: url("../fonts/Proxima-Nova-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Proxima-Nova-Regular.woff") format("woff"),
+    url("../fonts/Proxima-Nova-Regular.ttf") format("truetype"),
+    url("../fonts/Proxima-Nova-Regular.svg#webfont") format("svg");
+}
+
+@font-face {
+  font-family: "Proxima Nova Thin";
+  src: url("../fonts/Proxima-Nova-Thin.eot");
+  src: url("../fonts/Proxima-Nova-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Proxima-Nova-Thin.woff") format("woff"),
+    url("../fonts/Proxima-Nova-Thin.ttf") format("truetype"),
+    url("../fonts/Proxima-Nova-Thin.svg#webfont") format("svg");
+}
+@font-face {
+  font-family: "Proxima Nova Lt";
+  src: url("//db.onlinewebfonts.com/t/90b3680786db32f9b5c112d1537677db.eot");
+  src: url("//db.onlinewebfonts.com/t/90b3680786db32f9b5c112d1537677db.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/90b3680786db32f9b5c112d1537677db.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/90b3680786db32f9b5c112d1537677db.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/90b3680786db32f9b5c112d1537677db.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/90b3680786db32f9b5c112d1537677db.svg#Proxima Nova Lt")
+      format("svg");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}

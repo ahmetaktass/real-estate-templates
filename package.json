@@ -1,0 +1,14 @@
+{
+  "name": "real-astate-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w src/sass/style.scss -o src/css/ -recursive"
+  },
+  "author": "ahmetaktas",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
